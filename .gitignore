@@ -1,0 +1,19 @@
+# OS-specific files (junk)
+.DS_Store
+Thumbs.db
+
+# IDE/Editor settings
+.vscode/
+.idea/
+*.swp
+
+# Build & Temporary files
+build/
+bin/
+out/
+*.exe
+*.o
+*.obj
+__pycache__/
+ch2/my_california_housing_model.pkl 
+
